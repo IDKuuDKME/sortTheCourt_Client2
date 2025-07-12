@@ -21,7 +21,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import WebDriverException, TimeoutException
 
 # --- CONFIGURATION ---
-SHIP_INVITE_LINK = "https://drednot.io/invite/Wu5aTltskmcqkFP8rI0LW3Ws"
+SHIP_INVITE_LINK = "https://drednot.io/invite/DkOtAEo9xavwyVlIq0qB-HvG"
 ANONYMOUS_LOGIN_KEY = "_M85tFxFxIRDax_nh-HYm1gT"
 MAX_FAILURES = 5
 INACTIVITY_TIMEOUT_SECONDS = 3 * 60
